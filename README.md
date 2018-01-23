@@ -1,10 +1,10 @@
 # bookApp-Node-
 
-##Clone the repo
+## Clone the repo
 
 ``` git clone https://github.com/nitingupta220/bookApp-Node-.git ```
 
-#cd bookApp-Node-
+# cd bookApp-Node-
 
 ```npm install ```
 
